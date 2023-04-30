@@ -1061,7 +1061,38 @@
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
         "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
     },
+{
+		"name": "Ailech",
+		"leaderName": "Brian McFarren",
+		"adjective": ["Ailechian"],
+		"startBias": ["Avoid [Tundra]","Avoid [Desert]","[Coast]"],
+		"preferredVictoryType": "Cultural",
 
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Your villainy will be felled!",
+		"attacked": "I will not sit idol!",
+		"defeated": "Can you truly call this victory?",
+		"introduction": "Peace from Ailech, let us coexist.",
+
+		"neutralHello": "Peace from Ailech!",
+		"hateHello": "Do make it quick.",
+
+		"tradeRequest": "Would you like to form a trade agreement? I have reason to believe it will benefit us all!",
+
+		"outerColor": [89,12,36],
+		"innerColor": [300,249,255],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Eternal Faith",
+		"uniques": ["[+100 Faith] [in all cities]", "[Great Prophet] is earned [100]% faster",
+		"May choose [12] additional belief(s) of any type when [founding] a religion"],
+		"cities": ["Ailech","Armagh","Cashel","Letterkenny","Waterford","Cork","Coisfarragh","Bolcain","Dublin","Belfast",
+			"Duanin","Culaihnford","Eire","Mashel","Limerick","Galway","Drogheda","Dundalk","Bray","Navan",
+			"Kilkenny","Ennis","Carlow","Tralee","Newbridge","Portlaoise","Balbriggan","Naas","Athlone","Mullingar",
+			"Celbridge","Wexford","Sligo","Greystones","Clonmel","Kilarney","Arklow","Ashbourne","Mallow","Castlebar"],
+        "spyNames": ["Aiden", "Kyle", "Saibhan", "Owain", "Arden", "Uther", "Machuill", "Schahe", "Olwen", "Gil"]
+    },
 
 	// City-States sorted by cityStateType, name
 	{
